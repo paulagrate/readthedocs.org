@@ -54,3 +54,5 @@ It also gets included in the Read the Docs flyout:
 
 .. note:: You can include multiple translations in the same repository,
           but each project must specify the language to build for those docs.
+          
+          Test KYO ONE
